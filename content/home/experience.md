@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Project Officer"
+  company = "Nanyang Technological University"
+  company_url = "https://www.ntu.edu.sg/Pages/home.aspx"
+  location = "Singapore"
+  date_start = "2015-08-22"
+  date_end = "2016-01-05"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Camera calibration of large baseline stereo cameras.
+  * Implement visual SLAM system on stereo camera robot.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Assistant Researcher"
+  company = "Shenyang Institute of Automation, Chinese Academy of Sciences (SIA)"
+  company_url = "http://english.sia.cas.cn/"
+  location = "Shenyang, China"
+  date_start = "2013-07-22"
+  date_end = "2015-08-15"
+  description = """
+   Assistance Research in the State Key Laboratory of Robotics, in charge of:
+  
+   * System simulatioin for collision detection of robot arms. In charge of algorithm part.
+   * Bird-eye-view collision detection system depoyed on robot to construct a panarama environment perception. In charge of algorithm part.
+   * Robot monitoring and controlling console system. In charge of programming using C to handle communication between robot and host machine.
+  ."""
 
 +++

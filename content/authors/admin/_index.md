@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Zhang Handuo 张瀚铎
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student of Robot Vison and Localization
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Nanyang Technological University
+  url: "https://www.ntu.edu.sg/Pages/home.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Robotics visioin, visual SLAM, object detection and sensor fusion with the assis of AI.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 3D Robot Vision including Object Detection and Segmentation
+- Visual Localization and Navigation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in 3D Robot Vision
+    institution: Nanyang Technological University
+    year: 2016
+  - course: MEng in Pattern Recognition
+    institution: Northeastern University
+    year: 2011
+  - course: BSc in Automation
+    institution: Northeastern University
+    year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,21 +47,21 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/christlurker
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com.sg/citations?user=je6o_J4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/zhanghanduo
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/handuo_resume_.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zhang.handuo@live.com"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Zhang Handuo is currently a Ph.D student in Nanyang Technological University. His research interest is localization and machine learning on robot vision. Currently he is involved in a stereo vison based project for unmanned ground vehicle.
