@@ -16,7 +16,7 @@ baseurl = "https://zhanghanduo.com/"
 copyright = "&copy; 2019"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = "84370615"
+googleAnalytics = "UA-84370615-1"
 
 ############################
 ## Advanced options below ##
