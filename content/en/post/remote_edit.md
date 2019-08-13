@@ -22,6 +22,7 @@ caption = ""
 preview = true
 preview_only = false
 
+
 +++
 
 Remotely editing your work when your server does not have public IP address and you don't want to spend any money is not so easy. Maybe you can use Team viewer or Anydesk or even chrome remote desktop, but there are high latencies. Maybe you can use ngrok to remotely ssh to your server, you have to use vim and you are not familiar with it at all :anguished:. I tried to use rmate but it is not convinient to edit across different files in a folder.
