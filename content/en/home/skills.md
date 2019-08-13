@@ -27,12 +27,6 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "ROS"
-  description = "100%"
-
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
