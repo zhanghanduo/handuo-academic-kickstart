@@ -44,7 +44,7 @@ subtitle = ""
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
   
-  Background color.
+  # Background color.
   color = "navy"
   
   # Background gradient.
