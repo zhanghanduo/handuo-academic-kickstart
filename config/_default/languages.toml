@@ -13,8 +13,8 @@
  contentDir = "content/zh"
  title = "Chinese website title..."
  [zh.params]
-   description = "Site description in Chinese..."
+   description = "张瀚铎"
  [[zh.menu.main]]
-   name = "张瀚铎"
+   name = "Zhang Handuo"
    url = "#about"
    weight = 1
