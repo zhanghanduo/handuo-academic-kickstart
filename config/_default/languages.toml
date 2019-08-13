@@ -11,9 +11,9 @@
 [zh]
  languageCode = "zh-Hans"
  contentDir = "content/zh"
- title = "Chinese website title..."
+ title = "张瀚铎"
  [zh.params]
-   description = "张瀚铎"
+   description = "Chinese website ..."
  [[zh.menu.main]]
    name = "Zhang Handuo"
    url = "#about"

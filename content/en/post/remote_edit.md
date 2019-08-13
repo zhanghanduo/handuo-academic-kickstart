@@ -20,6 +20,7 @@ categories = []
 image = "codeserver/codeserver.png"
 caption = ""
 preview = true
+preview_only = false
 
 +++
 
