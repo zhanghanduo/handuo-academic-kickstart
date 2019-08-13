@@ -21,21 +21,21 @@ subtitle = ""
   description = "80%"
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "80%"
+
+[[feature]]
   icon = "robot"
   icon_pack = "fas"
   name = "ROS"
   description = "100%"
 
 [[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python (Numpy & Pytorch)"
-  description = "80%"
-  
-[[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics & Machine Learning"
+  name = "Machine Learning"
   description = "80%"  
   
 
