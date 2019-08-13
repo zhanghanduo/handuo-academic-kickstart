@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "工作经历"
 subtitle = ""
 
 # Date format for experience
@@ -32,10 +32,10 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Assistant Researcher"
-  company = "Shenyang Institute of Automation, Chinese Academy of Sciences (SIA)"
-  company_url = "http://english.sia.cas.cn/"
-  location = "Shenyang, China"
+  title = "研究实习员"
+  company = "中国科学院沈阳自动化研究所"
+  company_url = "http://www.sia.cn/"
+  location = "中国沈阳"
   date_start = "2013-07-22"
   date_end = "2015-08-15"
   description = """

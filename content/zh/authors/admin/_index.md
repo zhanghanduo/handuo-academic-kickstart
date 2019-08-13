@@ -21,9 +21,9 @@ organizations:
 bio: 我的研究兴趣包括：视觉定位导航，AI背景下的物体检测以及数据融合。
 
 interests:
-- Artificial Intelligence
-- 3D Robot Vision including Object Detection and Segmentation
-- Visual Localization and Navigation
+- 机器学习及深度学习
+- 物体检测及分割
+- 视觉定位与导航
 
 education:
   courses:
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Zhang Handuo is currently a Ph.D student in Nanyang Technological University. His research interest is localization and machine learning on robot vision. Currently he is involved in a stereo vison based project for unmanned ground vehicle.
+张瀚铎现在就读于南洋理工大学，电力与电子工程学院（School of EEE）。他的研究包括机器视觉下的自定位和给予机器学习的物体检测。现在他正在进行一个基于双目视觉的无人车项目。
