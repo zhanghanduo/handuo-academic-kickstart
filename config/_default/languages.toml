@@ -15,6 +15,6 @@
  [zh.params]
    description = "Site description in Chinese..."
  [[zh.menu.main]]
-   name = "Wo"
+   name = "张瀚铎"
    url = "#about"
    weight = 1
