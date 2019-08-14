@@ -42,7 +42,7 @@ projects = []
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["SLAM"]
 
-featured: true
+featured = true
 
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1902.09193"
