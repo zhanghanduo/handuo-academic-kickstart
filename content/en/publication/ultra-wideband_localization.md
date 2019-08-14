@@ -41,6 +41,7 @@ projects = []
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["SLAM"]
+featured: true
 
 # Links (optional).
 url_pdf = "https://www.researchgate.net/publication/320180254_Ultra-Wideband_Aided_Fast_Localization_and_Mapping_System"

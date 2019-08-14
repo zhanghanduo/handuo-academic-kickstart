@@ -20,11 +20,12 @@ categories = ["Object Detection"]
 image = "yolo/intro_yolo_cars.jpeg"
 caption = ""
 image_preview = "yolo/intro_yolo_cars.jpeg"
+preview = true
 
-[image]
- caption = "Vehicle Detection Result"
- focal_point = "Smart"
- preview_only = false
+image:
+    caption = "Vehicle Detection Result"
+    focal_point = ""
+    preview_only = false
 
 +++
 YOLO has higher localization errors and the recall (measure how good to locate all objects) is lower, compared to SSD. YOLOv2 is the second version of the YOLO with the objective of improving the accuracy significantly while making it faster.
