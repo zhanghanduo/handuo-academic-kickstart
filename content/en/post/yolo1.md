@@ -19,7 +19,7 @@ categories = ["Object Detection"]
 [header]
 image = "yolo/yolo_demo1.png"
 caption = "Objects detected by YOLO"
-preview = true
+image_preview = "yolo/yolo_demo1.png"
 
 +++
 

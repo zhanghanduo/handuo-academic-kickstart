@@ -67,6 +67,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "grids.png"
+image_preview = "grids.png"
 caption = "Dynamic Object Motion Patterns"
 
 +++

@@ -17,10 +17,9 @@ categories = ["Object Detection"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-small_image = "yolo/intro_yolo_cars.jpeg"
 image = "yolo/intro_yolo_cars.jpeg"
 caption = ""
-preview = true
+image_preview = "yolo/intro_yolo_cars.jpeg"
 
 [image]
  caption = "Vehicle Detection Result"

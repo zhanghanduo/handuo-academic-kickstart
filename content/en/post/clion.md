@@ -18,9 +18,9 @@ categories = []
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 image = "clion1.png"
+image_preview = "clion1.png"
 caption = ""
 preview = true
-preview_only = false
 
 +++
 
