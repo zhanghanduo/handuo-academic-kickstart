@@ -6,7 +6,7 @@ date = 2019-08-26T00:00:00
 authors = ["Zhang Handuo", "Karunasekera Hasith", "Zhou Hui"]
 
 
-# image_preview = "cubicle_1.png"
+ image_preview = "cubicle_1.png"
 #List format.
 #0 = Simple
 #1 = Detailed
@@ -21,7 +21,7 @@ tags = ["Project"]
 
 # Links (optional).
 url_pdf = "https://ugv_stereo.gitlab.io/"
-url = "https://ugv_stereo.gitlab.io/"
+# url = "https://ugv_stereo.gitlab.io/"
 
 advancemenuimg=""
 [header]
