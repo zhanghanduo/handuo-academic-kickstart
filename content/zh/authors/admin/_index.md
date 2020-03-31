@@ -51,6 +51,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/christlurker
+- icon: telegram
+  icon_pack: fab
+  link: https://t.me/christlurker
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.sg/citations?user=je6o_J4AAAAJ&hl=en

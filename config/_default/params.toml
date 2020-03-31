@@ -63,11 +63,11 @@ phone = "65 83410772"
 address = "BLK656C, #15-313, Jurong West Street 61, Singapore, 643656"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+# office_hours = """Monday 10:00 to 13:00<br>
+                  # Wednesday 09:00 to 10:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+# appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -76,7 +76,7 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:christlurker?call"},
   {icon = "weixin", icon_pack = "fab", name = "Chat on Wechat", link = "weixin://dl/chat?{handuo8997}"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://t.me/christlurker"},
   ]
 
 # Display a map.
@@ -181,3 +181,10 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+############################
+## Marketing
+############################
+[marketing]
+  google_analytics = "UA-84370615-1"
+  google_tag_manager = ""
