@@ -10,19 +10,35 @@ day_night = true
 # Font style.
 #   Choose from `default`, `classic`, `rose`, or `mr_robot`.
 font = "mr_robot"
+# Choose a font size.
+# Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
+font_size = "L"
+
+############################
+## Basic Info
+############################
+
+# Website type
+#   Improve how search engines understand your site.
+#   For personal sites, choose "Person".
+#   For organizations and projects, choose from https://schema.org/Organization#subtypes
+#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
+site_type = "Person"
+
+# Local business type (optional)
+# If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
+local_business_type = ""
+
+# Organization name (optional)
+# Enter an organization or project name. Defaults to the site title from `config.toml`.
+org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
-# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
-
-# Twitter username (without @). Used when a vistor shares your site on Twitter.
-twitter = ""
-
-# Diplay a logo in navigation bar rather than title (optional).
-#   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
-logo = ""
+############################
+## Site Features
+############################
 
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
@@ -45,7 +61,8 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 # `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+#edit_page = {repo_url = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"

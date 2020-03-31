@@ -34,6 +34,7 @@ hasCJKLanguage = true  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
+summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -63,11 +64,11 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
-[blackfriday]
-  hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
-	angledQuotes = false
-	latexDashes = true
-  extensions = ["backslashLineBreak"]
+#[blackfriday]
+  #hrefTargetBlank = true  # `true` opens external links in a new tab. See https://github.com/gohugoio/hugo/issues/2424
+	#angledQuotes = false
+	#latexDashes = true
+  #extensions = ["backslashLineBreak"]
 
 [imaging]
   resampleFilter = "lanczos"
