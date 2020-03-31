@@ -66,7 +66,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "tracking_flow.png"
+image = ""
+image_preview = "tracking_flow.png"
 caption = "Flow chart of the proposed tracking framework"
-
+preview = true
 +++

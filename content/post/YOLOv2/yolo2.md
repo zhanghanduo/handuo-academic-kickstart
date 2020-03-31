@@ -16,9 +16,16 @@ categories = ["Object Detection"]
 # Use `caption` to display an image caption.
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
-[header]
-image = "yolo/intro_yolo_cars.jpeg"
-caption = ""
+#[header]
+#image = "yolo/intro_yolo_cars.jpeg"
+#caption = ""
+#image_preview = "yolo/intro_yolo_cars.jpeg"
+#preview = true
+
+[image]
+caption = "Vehicle Detection Result"
+focal_point = ""
+preview_only = false
 preview = true
 
 +++

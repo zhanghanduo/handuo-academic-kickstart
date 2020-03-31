@@ -42,6 +42,8 @@ projects = []
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["SLAM"]
 
+featured = true
+
 # Links (optional).
 url_pdf = "https://arxiv.org/abs/1902.09193"
 url_preprint = ""
@@ -67,6 +69,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "grids.png"
+image_preview = "grids.png"
 caption = "Dynamic Object Motion Patterns"
-
+preview = true
 +++

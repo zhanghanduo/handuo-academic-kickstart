@@ -1,10 +1,10 @@
 +++
-title = "A Hybrid Feature Parametrization for Improving Stereo-SLAM Consistency"
-date = 2017-07-03T19:36:47+08:00
+title = "Ultra-wideband aided fast localization and mapping system"
+date = 2017-09-24T19:36:47+08:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Handuo Zhang", "Karunasekera Hasith", "Han Wang"]
+authors = ["Chen Wang", "Handuo Zhang", "Thien-Minh Nguyen", "Lihua Xie"]
 
 # Publication type.
 # Legend:
@@ -18,15 +18,15 @@ authors = ["Handuo Zhang", "Karunasekera Hasith", "Han Wang"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "IEEE International Conference on Control & Automation"
-publication_short = "ICCA"
+publication = "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+publication_short = "IROS"
 
 # Abstract and optional shortened version.
-abstract = "In visual simultaneous localization and mapping (SLAM) field, especially for feature based stereo-SLAM, data association is one of the most important and time-consuming sub-tasks. In this paper, we investigate the roles of different measured features during the data association process and present a new hybrid feature parametrization approach for stereo SLAM, which only selects a subset of the matched features that contributes most and treats nearby and distant features separately with different parametrization. We formulate a pipeline to filter, store and track the features which saves time for further state estimation. For different types of features on manifold and Euclidean space we apply corresponding designed maximum likelihood estimator with quadratic constraints and thus get a near-optimal estimation. Experimental results on EuRoC dataset and real tests show that our proposed algorithm leads to accurate state estimation with big progress in consistency."
+abstract = "This paper proposes an ultra-wideband (UWB) aided localization and mapping system that leverages on inertial sensor and depth camera. Inspired by the fact that visual odometry (VO) system, regardless of its accuracy in the short term, still faces challenges with accumulated errors in the long run or under unfavourable environments, the UWB ranging measurements are fused to remove the visual drift and improve the robustness. A general framework is developed which consists of three parallel threads, two of which carry out the visualinertial odometry (VIO) and UWB localization respectively. The other mapping thread integrates visual tracking constraints into a pose graph with the proposed smooth and virtual range constraints, such that a bundle adjustment is performed to provide robust trajectory estimation. Experiments show that the proposed system is able to create dense drift-free maps in real-time even running on an ultra-low power processor in featureless environments."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "remote_para.png"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -41,9 +41,10 @@ projects = []
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["SLAM"]
+featured = false
 
 # Links (optional).
-url_pdf = "https://www.researchgate.net/publication/319031312_A_hybrid_feature_parametrization_for_improving_stereo-SLAM_consistency"
+url_pdf = "https://www.researchgate.net/publication/320180254_Ultra-Wideband_Aided_Fast_Localization_and_Mapping_System"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -66,7 +67,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "remote_para.png"
+image = ""
 caption = ""
 
 +++

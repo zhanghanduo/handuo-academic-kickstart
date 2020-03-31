@@ -19,8 +19,8 @@ categories = ["Object Detection"]
 [header]
 image = "yolo/yolo_demo1.png"
 caption = "Objects detected by YOLO"
+image_preview = "yolo/yolo_demo1.png"
 preview = true
-
 +++
 
 **You Only Look Once (YOLO)** is an object detection system targeted for real-time processing. There are three versions of YOLO: YOLO, YOLOv2 (and YOLO9000) and YOLOv3. For this article, we mainly focus on YOLO first stage. 

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 张瀚铎
+name: Zhang Handuo
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: 机器人视觉博士在读生
+role: PhD Student of Robot Vison and Localization
 
 # Organizations/Affiliations
 organizations:
-- name: 南洋理工大学
+- name: Nanyang Technological University
   url: "https://www.ntu.edu.sg/Pages/home.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究兴趣包括：视觉定位导航，AI背景下的物体检测以及数据融合。
+bio: My research interests include Robotics visioin, visual SLAM, object detection and sensor fusion with the assis of AI.
 
 interests:
-- 机器学习及深度学习
-- 物体检测及分割
-- 视觉定位与导航
+- Artificial Intelligence
+- 3D Robot Vision including Object Detection and Segmentation
+- Visual Localization and Navigation
 
 education:
   courses:
-  - course: 3D机器人视觉 博士在读
-    institution: 南洋理工大学
+  - course: PhD in 3D Robot Vision
+    institution: Nanyang Technological University
     year: 2016
-  - course: 人工智能与模式识别 硕士
-    institution: 东北大学
+  - course: MEng in Pattern Recognition
+    institution: Northeastern University
     year: 2011
-  - course: 自动化 本科
-    institution: 东北大学
+  - course: BSc in Automation
+    institution: Northeastern University
     year: 2007
 
 # Social/Academic Networking
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-张瀚铎现在就读于南洋理工大学，电力与电子工程学院（School of EEE）。他的研究包括机器视觉下的自定位和给予机器学习的物体检测。现在他正在进行一个基于双目视觉的无人车项目。
+Zhang Handuo is currently a Ph.D student in Nanyang Technological University. His research interest is localization and machine learning on robot vision. Currently he is involved in a stereo vison based project for unmanned ground vehicle.

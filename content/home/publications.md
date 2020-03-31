@@ -1,18 +1,18 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
+# A Recent Publications section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
-title = "最近博文"
+title = "Recent Publications"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+  page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -28,6 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
@@ -43,20 +44,20 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-  
+    
   # Background color.
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DeepSkyBlue"
-  gradient_end = "SkyBlue"
+  # gradient_start = "DeepSkyBlue"
+  # gradient_end = "SkyBlue"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true  
+  # text_color_light = true  
   
 [advanced]
  # Custom CSS. 
@@ -65,3 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+{{% /alert %}}
